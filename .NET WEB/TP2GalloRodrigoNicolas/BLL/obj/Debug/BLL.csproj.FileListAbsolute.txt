@@ -1,0 +1,9 @@
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\bin\Debug\BLL.dll
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\bin\Debug\BLL.pdb
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\bin\Debug\DAL.dll
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\bin\Debug\DAL.pdb
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\obj\Debug\BLL.dll
+C:\Users\elrod\Desktop\TP2GalloRodrigoNicolas\BLL\obj\Debug\BLL.pdb
