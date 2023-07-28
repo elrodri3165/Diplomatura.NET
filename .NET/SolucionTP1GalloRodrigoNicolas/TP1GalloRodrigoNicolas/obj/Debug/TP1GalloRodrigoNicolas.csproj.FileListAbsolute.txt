@@ -1,0 +1,8 @@
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\bin\Debug\TP1GalloRodrigoNicolas.exe.config
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\bin\Debug\TP1GalloRodrigoNicolas.exe
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\bin\Debug\TP1GalloRodrigoNicolas.pdb
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\obj\Debug\TP1GalloRodrigoNicolas.csproj.AssemblyReference.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\obj\Debug\TP1GalloRodrigoNicolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\obj\Debug\TP1GalloRodrigoNicolas.csproj.CoreCompileInputs.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\obj\Debug\TP1GalloRodrigoNicolas.exe
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\TP1GalloRodrigoNicolas\obj\Debug\TP1GalloRodrigoNicolas.pdb

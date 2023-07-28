@@ -1,0 +1,11 @@
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasBussiness.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasBussiness.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasDAL.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasEntities.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasDAL.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\bin\Debug\TP7GalloRodrigoNicolasEntities.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\obj\Debug\TP7GalloRodrigoNicolasBussiness.csproj.AssemblyReference.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\obj\Debug\TP7GalloRodrigoNicolasBussiness.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\obj\Debug\TP7GalloRodrigoNicolasBussiness.csproj.CopyComplete
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\obj\Debug\TP7GalloRodrigoNicolasBussiness.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasBussiness\obj\Debug\TP7GalloRodrigoNicolasBussiness.pdb

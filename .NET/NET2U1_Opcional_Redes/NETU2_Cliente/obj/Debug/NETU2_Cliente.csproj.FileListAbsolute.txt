@@ -1,0 +1,6 @@
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\bin\Debug\NETU2_Cliente.exe.config
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\bin\Debug\NETU2_Cliente.exe
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\bin\Debug\NETU2_Cliente.pdb
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\obj\Debug\NETU2_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\obj\Debug\NETU2_Cliente.exe
+C:\Users\leito\Source\repos\NET2U2_Redes\NETU2_Cliente\obj\Debug\NETU2_Cliente.pdb

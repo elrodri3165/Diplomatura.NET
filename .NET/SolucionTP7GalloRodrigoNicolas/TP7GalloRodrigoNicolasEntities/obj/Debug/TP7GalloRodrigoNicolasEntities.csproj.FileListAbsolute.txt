@@ -1,0 +1,6 @@
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\bin\Debug\TP7GalloRodrigoNicolasEntities.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\bin\Debug\TP7GalloRodrigoNicolasEntities.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\obj\Debug\TP7GalloRodrigoNicolasEntities.csproj.AssemblyReference.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\obj\Debug\TP7GalloRodrigoNicolasEntities.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\obj\Debug\TP7GalloRodrigoNicolasEntities.dll
+C:\Users\elrod\Desktop\curso .net\SolucionTP7GalloRodrigoNicolas\TP7GalloRodrigoNicolasEntities\obj\Debug\TP7GalloRodrigoNicolasEntities.pdb

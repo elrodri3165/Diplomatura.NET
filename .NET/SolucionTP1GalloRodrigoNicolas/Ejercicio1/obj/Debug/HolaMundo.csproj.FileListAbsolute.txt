@@ -1,0 +1,8 @@
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\elrod\OneDrive\Escritorio\curso .net\SolucionTP1GalloRodrigoNicolas\Ejercicio1\obj\Debug\Ejercicio1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETU1_Server", "NETU2_Server\NETU1_Server.csproj", "{777BB15C-EB4F-4820-B605-87760BA505A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETU1_Cliente", "NETU2_Cliente\NETU1_Cliente.csproj", "{69A9E6EF-BE91-4197-9CA6-CD51BB0207D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777BB15C-EB4F-4820-B605-87760BA505A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777BB15C-EB4F-4820-B605-87760BA505A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777BB15C-EB4F-4820-B605-87760BA505A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777BB15C-EB4F-4820-B605-87760BA505A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A9E6EF-BE91-4197-9CA6-CD51BB0207D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A9E6EF-BE91-4197-9CA6-CD51BB0207D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A9E6EF-BE91-4197-9CA6-CD51BB0207D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A9E6EF-BE91-4197-9CA6-CD51BB0207D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267D3040-91C4-44B8-8A0C-E994B3AFB2D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\bin\Debug\NETU2_Server.exe.config
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\bin\Debug\NETU2_Server.exe
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\bin\Debug\NETU2_Server.pdb
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\obj\Debug\NETU1_Server.csproj.AssemblyReference.cache
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\obj\Debug\NETU1_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\obj\Debug\NETU1_Server.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\obj\Debug\NETU2_Server.exe
+C:\Users\elrod\Desktop\NET2U1_Opcional_Redes\NETU2_Server\obj\Debug\NETU2_Server.pdb

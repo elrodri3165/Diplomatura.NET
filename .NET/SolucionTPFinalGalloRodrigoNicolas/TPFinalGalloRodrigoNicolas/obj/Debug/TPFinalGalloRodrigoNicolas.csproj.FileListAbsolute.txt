@@ -1,0 +1,12 @@
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\bin\Debug\TPFinalGalloRodrigoNicolas.exe.config
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\bin\Debug\TPFinalGalloRodrigoNicolas.exe
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\bin\Debug\TPFinalGalloRodrigoNicolas.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.csproj.AssemblyReference.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.Form1.resources
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.Properties.Resources.resources
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.csproj.GenerateResource.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.exe
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.pdb
+C:\Users\elrod\Desktop\curso .net\SolucionTPFinalGalloRodrigoNicolas\TPFinalGalloRodrigoNicolas\obj\Debug\TPFinalGalloRodrigoNicolas.Form2.resources

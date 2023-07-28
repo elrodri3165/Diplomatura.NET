@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "Ejercicio1\HolaMundo.csproj", "{EBDD071B-31FC-450E-8961-29B94FE086ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChauMundo", "Ejercicio2\ChauMundo.csproj", "{F64D835F-FFB9-40C9-879A-1F98CF55F60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDD071B-31FC-450E-8961-29B94FE086ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDD071B-31FC-450E-8961-29B94FE086ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDD071B-31FC-450E-8961-29B94FE086ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDD071B-31FC-450E-8961-29B94FE086ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64D835F-FFB9-40C9-879A-1F98CF55F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64D835F-FFB9-40C9-879A-1F98CF55F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64D835F-FFB9-40C9-879A-1F98CF55F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64D835F-FFB9-40C9-879A-1F98CF55F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685A2367-4202-4C32-AF70-0EA25E713418}
+	EndGlobalSection
+EndGlobal
