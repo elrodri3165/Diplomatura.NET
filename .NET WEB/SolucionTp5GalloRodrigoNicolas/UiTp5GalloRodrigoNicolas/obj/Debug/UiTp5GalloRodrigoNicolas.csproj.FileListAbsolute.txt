@@ -6,3 +6,11 @@ C:\Users\elrod\Desktop\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\o
 C:\Users\elrod\Desktop\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.csproj.CoreCompileInputs.cache
 C:\Users\elrod\Desktop\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.exe
 C:\Users\elrod\Desktop\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.pdb
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\bin\Debug\UiTp5GalloRodrigoNicolas.exe.config
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\bin\Debug\UiTp5GalloRodrigoNicolas.exe
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\bin\Debug\UiTp5GalloRodrigoNicolas.pdb
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.csproj.AssemblyReference.cache
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.csproj.CoreCompileInputs.cache
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.exe
+C:\Users\elrod\Diplomatura.NET\.NET WEB\SolucionTp5GalloRodrigoNicolas\UiTp5GalloRodrigoNicolas\obj\Debug\UiTp5GalloRodrigoNicolas.pdb

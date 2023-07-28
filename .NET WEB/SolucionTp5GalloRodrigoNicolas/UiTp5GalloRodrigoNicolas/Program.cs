@@ -10,24 +10,28 @@ namespace UiTp5GalloRodrigoNicolas
     {
         static void Main(string[] args)
         {
-            
 
-            string create = "INSERT INTO Usuarios (Id, Nombre, Apellido,Edad) VALUES (1, ´Alan´, ´Roman´, 11)";
-            string create2 = "INSERT INTO Usuarios (Id, Nombre, Apellido,Edad) VALUES (2, ´Rodrigo´, ´Gallo´, 28);";
-            string create3 = "INSERT INTO Usuarios (Id, Nombre, Apellido,Edad) VALUES (3, ´Nicolas´, ´Fernandez´, 33);";
+            Console.WriteLine("Ingrese su apellido");
+            string Apellido = Console.ReadLine();
 
-            string consulta = "Select * From Usuarios;";
+            Console.WriteLine("Ingrese su nombre");
+            string Nombre = Console.ReadLine();
 
-            Console.ReadLine();
+            Console.WriteLine("Ingrese su Edad");
+            int Edad = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese su ID");
+            int Id = Int32.Parse(Console.ReadLine());
 
             DAL dal = new DAL();
-            dal.Conectar(create);
-            //dal.Conectar(create2);
-            //dal.Conectar(create3);
+            dal.Conectar(Apellido, Nombre, Id, Edad);
 
-            //dal.Conectar(create);
+            Console.WriteLine("**");
 
+            Console.WriteLine("Lista de usuarios del sistema");
+            dal.ListarUsuarios();
 
+            Console.ReadLine();
         }
     }
 }
