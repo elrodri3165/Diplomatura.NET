@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Contacto";
+}
+<main>
+    <!--  SECCION CONTACTO -->
+
+    <section id="contacto">
+        <h1 class="titulos">Contacto</h1>
+        <div class="container mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.2336859886277!2d-62.271949884356275!3d-38.78127687958867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbd514b179da5%3A0x398d52fb76513951!2sV%C3%A9lez%20S%C3%A1rsfield%203822%2C%20B8103%20Ingeniero%20White%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1598584306689!5m2!1ses!2sar" width="100%" height="90%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+        <div id="container-datos-contacto">
+            <ul>
+                <li class="datos-contacto"><a href="mailto:gallonestor@bvconline.com.ar"><img class="icon" src="img/icon/email.png" alt=""></a></li>
+                <li class="datos-contacto">
+                    <div>
+                        <p class="contacto-p">gallonestor@bvconline.com.ar</p>
+                    </div>
+                </li>
+                <li class="datos-contacto"><img class="icon" src="img/icon/telefono.png" alt=""></li>
+                <li class="datos-contacto"><a class="contacto-p" href="https://api.whatsapp.com/send?phone=542915071220&text=&source=&data=&app_absent=">+54 291 5 071220</a></li>
+            </ul>
+        </div>
+        <form action="" method="post" onsubmit="return validar();">
+            <h4>Envianos <span>un mensaje</span></h4>
+            <ul>
+                <li><label for="nombre">Nombre</label></li>
+                <li><input type="text" id="nombre" name="nombre" placeholder="Nombre"></li>
+
+                <li><label for="correo">Correo</label></li>
+                <li><input type="text" id="correo" name="correo" placeholder="Email"></li>
+
+                <li><label for="mensaje">Mensaje</label></li>
+                <li><textarea name="mensaje" placeholder="Mensaje" id="textarea" cols="30" rows="10"></textarea></li>
+
+
+
+                <li><input type="submit" name="boton" value="Enviar" id="boton" onclick="Saludar()"></li>
+            </ul>
+        </form>
+        <script src="js/validacion.js"></script>
+    </section>
+    <!-- FIN DE SECCION CONTACTO -->
+</main>

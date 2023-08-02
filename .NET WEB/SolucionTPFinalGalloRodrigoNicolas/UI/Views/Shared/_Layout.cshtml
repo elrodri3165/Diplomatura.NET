@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link rel="icon" href="img/favicon.jpg">
+    <!-- Rubik font and roboto - google font-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Rubik:wght@500&display=swap" rel="stylesheet">
+    <!-- Insert to your webpage before the </head> -->
+</head>
+<body>
+    <header>
+        <div class="container-fluid d-flex justify-content-evenly p-3 mb-1 bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="~/"><img src="img/logo.jpg" alt="Logo" border="0" class="" /></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a href="~/" role="button" class="btn-lg nav-link m-3">INICIO</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="~/home/servicios" role="button" class="btn-lg nav-link m-3">SERVICIOS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="~/home/portfolio" role="button" class="btn-lg nav-link m-3">PORTFOLIO</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="~/home/about" role="button" class="btn-lg nav-link m-3">NOSOTROS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="~/home/contact" role="button" class="btn-lg nav-link m-3">CONTACTO</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <!--  SECCION FOOTER -->
+        <footer>
+            <div id="container-footer">
+                <div id="logo">
+                    <a href="index.html"><img src="img/logo.jpg" alt=""></a>
+                </div>
+                <div id="container-redes">
+                    <ul>
+                        <li class="icon-redes"><a href="https://www.facebook.com/"><img class="icon" src="img/icon/facebook.png" alt=""></a></li>
+                        <li class="icon-redes"><a href="https://www.instagram.com/"><img class="icon" src="img/icon/instagram.png" alt=""></a></li>
+                        <li class="icon-redes"><a href="https://www.linkedin.com/in/rodrigo-gallo-4b1b3285/?originalSubdomain=ar"><img id="likein" class="icon" src="img/icon/likein.png" alt=""></a></li>
+                    </ul>
+                </div>
+                <div id="container-rgweb">
+                    <h3><a href="mailto:hola@hola.com">hola@hola.com</a></h3>
+                    <h3>Diseño y ejecucion por <a href="index.html">RG.com.ar</a></h3>
+                </div>
+            </div>
+        </footer>
+        <!-- FIN DE SECCION FOOTER -->
+    </div>
+
+     <script>
+            function Saludar(){
+                alert('Muchas gracias por su mensaje!!!');
+            }
+        </script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

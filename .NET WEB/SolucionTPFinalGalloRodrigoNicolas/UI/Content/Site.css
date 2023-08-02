@@ -1,0 +1,563 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+
+/*****************ESTILOS DE MI SITIO**************/
+body {
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 1.5px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#botonmenu {
+    display: none;
+}
+
+#whatsapp {
+    display: none;
+}
+
+p {
+    text-align: justify;
+}
+
+#captcha {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+
+
+/*fin de seccion header*/
+
+/*containers*/
+#container-header {
+    width: 100%;
+    height: 125px;
+    background-color: white;
+    position: fixed;
+    z-index: 99999;
+}
+
+#logo {
+    width: fit-content;
+    height: fit-content;
+    float: left;
+}
+
+#container-footer {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-top: 55px;
+    padding-top: 55px;
+}
+
+    #container-footer #logo {
+        margin: auto;
+        float: none;
+    }
+
+#container-redes {
+    width: fit-content;
+    margin: auto;
+    padding-top: 55px;
+}
+
+#container-rgweb {
+    width: fit-content;
+    margin: auto;
+}
+
+.servicios-data {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    box-shadow: 0px 0px 25px;
+}
+/*fin de containers*/
+
+
+/*botoneras*/
+.botonera {
+    margin: auto;
+    width: fit-content;
+    padding-top: 55px;
+}
+
+    .botonera li {
+        display: inline-block;
+    }
+
+        .botonera li a {
+            display: block;
+            height: 30px;
+            width: auto;
+            color: black;
+            text-decoration: none;
+            text-align: center;
+            margin-left: 25px;
+            margin-right: 25px;
+        }
+
+            .botonera li a:hover {
+                color: #007bff;
+                border-bottom: solid #007bff;
+            }
+/*fin de botoneras*/
+
+
+
+/*titulos, semititulos y h*/
+.titulos {
+    font-family: 'Roboto', sans-serif;
+    width: fit-content;
+    margin: auto;
+    font-size: 60px;
+}
+
+h4 {
+    margin-top: 55px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+
+    h4 span {
+        font-family: sans-serif;
+        font-weight: 100;
+    }
+
+.semititulos {
+    font-family: 'Roboto', sans-serif;
+    width: fit-content;
+    margin: auto;
+    margin-top: 40px;
+    color: #6c6c6c;
+    letter-spacing: 1.5px;
+}
+/*fin de titulos y h*/
+
+
+/*seccion contacto*/
+.mapa {
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+}
+
+form {
+    width: 40%;
+    margin: auto;
+}
+
+    form ul li input {
+        width: 100%;
+        height: 40px;
+        border-radius: 10px;
+        border: 2px solid #007bff;
+    }
+
+#textarea {
+    width: 100%;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    border: 2px solid #007bff;
+}
+
+#boton {
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    width: 165px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 25px;
+    border: 2px solid #007bff;
+}
+
+    #boton:hover {
+        background-color: white;
+        color: #007bff;
+    }
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.datos-contacto {
+    display: inline-block;
+}
+
+.contacto-p {
+    line-height: 50px;
+    height: 50px;
+    margin: 0px;
+    display: block;
+    margin-bottom: 0px;
+}
+
+.datos-contacto div {
+    height: 50px;
+}
+
+#container-datos-contacto {
+    margin: auto;
+    width: fit-content;
+    height: 50px;
+    margin-top: 25px;
+}
+/*fin de seccion contacto*/
+
+/*seccion servicios*/
+h2 {
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.servicio {
+    color: black;
+    text-align: center;
+    margin: 30px;
+    font-size: 15px;
+}
+
+.servicios-data h3 {
+    text-align: center;
+    color: red;
+}
+/*fin de seccion servicios*/
+
+/*seccion portfolio*/
+.nombre-cliente {
+    text-align: center;
+    font-size: 55px;
+    margin-top: 65px;
+    margin-bottom: 0px;
+}
+
+.foto-cliente {
+    width: 1200px;
+}
+/*fin de seccion portfolio*/
+
+/*seccion footer*/
+
+.icon-redes {
+    display: inline-block;
+}
+
+#likein {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 25px;
+}
+
+#container-rgweb h3, #container-rgweb h3 a {
+    color: white;
+    text-align: center;
+}
+/*fin seccion footer*/
+
+
+/*comienzo de vistas responsive*/
+@media handheld, screen and (min-width:1200px) and (max-width:1799px) {
+}
+
+@media handheld, screen and (min-width:800px) and (max-width:1199px) {
+
+    #container-header {
+        width: 800px;
+        height: 125px;
+    }
+
+    .botonera {
+        float: right;
+    }
+
+        .botonera li a {
+            margin-left: 7px;
+            margin-right: 7px;
+        }
+
+    .mapa {
+        width: 800px;
+        height: 400px;
+    }
+
+    .amazingslider-title-1 {
+        font-size: 30px !important;
+    }
+
+    .amazingslider-description-1 {
+        font-size: 20px !important;
+    }
+}
+
+@media handheld, screen and (min-width:600px) and (max-width:799px) {
+    #container-header {
+        width: 100%;
+        height: 125px;
+    }
+
+    .botonera {
+        display: none;
+        position: fixed;
+        left: 0px;
+        top: 65px;
+        z-index: 999;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 20px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+        .botonera li a {
+            width: 250px;
+            height: 50px;
+            margin: 0px;
+            border: 1px solid black;
+        }
+
+        .botonera li {
+            display: block;
+        }
+
+    .mapa {
+        width: 99%;
+        height: 400px;
+        display: none;
+    }
+
+    .amazingslider-title-1 {
+        font-size: 15px !important;
+    }
+
+    .amazingslider-description-1 {
+        font-size: 10px !important;
+    }
+
+    .titulos {
+        font-size: 25px;
+    }
+
+    #logo {
+        float: right;
+    }
+
+    #botonmenu {
+        display: block;
+        background-image: url(../img/boton.png);
+        height: 50px;
+        width: 50px;
+        cursor: pointer;
+        background-size: 100%;
+        margin-top: 10px;
+        background-color: black;
+        position: relative;
+        top: 0px;
+        z-index: 99;
+    }
+
+    #containernav {
+        animation: slide;
+        animation-duration: 0.7s;
+    }
+
+    #container-datos-contacto {
+        display: none;
+    }
+
+    form {
+        width: 70%;
+    }
+
+    h4 {
+        margin-top: 35px;
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+        h4 span {
+            font-family: sans-serif;
+            font-weight: 100;
+        }
+
+    #whatsapp {
+        display: block;
+        position: fixed;
+        top: 410px;
+        left: 0px;
+        width: 120px;
+        height: 120px;
+        background-image: url(../img/what.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        animation: what 2s 5 ease-in-out;
+        animation-direction: alternate;
+        z-index: 999;
+    }
+}
+
+@media handheld, screen and (max-width:599px) {
+    #container-header {
+        width: 100%;
+        height: 125px;
+    }
+
+    .botonera {
+        display: none;
+        position: fixed;
+        left: 0px;
+        top: 65px;
+        z-index: 999;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 20px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+        .botonera li a {
+            width: 250px;
+            height: 50px;
+            margin: 0px;
+            border: 1px solid black;
+        }
+
+        .botonera li {
+            display: block;
+        }
+
+    .mapa {
+        width: 99%;
+        height: 400px;
+        display: none;
+    }
+
+    .amazingslider-title-1 {
+        font-size: 15px !important;
+    }
+
+    .amazingslider-description-1 {
+        font-size: 10px !important;
+    }
+
+    .titulos {
+        font-size: 25px;
+    }
+
+    #logo {
+        float: right;
+    }
+
+    #botonmenu {
+        display: block;
+        background-image: url(../img/boton.png);
+        height: 50px;
+        width: 50px;
+        cursor: pointer;
+        background-size: 100%;
+        margin-top: 10px;
+        background-color: black;
+        position: relative;
+        top: 0px;
+        z-index: 99;
+    }
+
+    #containernav {
+        animation: slide;
+        animation-duration: 0.7s;
+    }
+
+    #container-datos-contacto {
+        display: none;
+    }
+
+    form {
+        width: 75%;
+    }
+
+    h4 {
+        margin-top: 35px;
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+        h4 span {
+            font-family: sans-serif;
+            font-weight: 100;
+        }
+
+    #whatsapp {
+        display: block;
+        position: fixed;
+        top: 400px;
+        left: 0px;
+        width: 100px;
+        height: 100px;
+        background-image: url(../img/what.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        animation: what 2s 5 ease-in-out;
+        animation-direction: alternate;
+        z-index: 999;
+    }
+}
+
+
+
+@keyframes slide {
+    from {
+        margin-left: -100%;
+    }
+
+    to {
+        margin-left: 0%;
+    }
+}
+
+@keyframes what {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.8);
+    }
+}
