@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Contacto";
+}
+<main>
+    <!--  SECCION CONTACTO -->
+
+    <section id="contacto">
+        <h1 class="titulos">Contacto</h1>
+        <div class="container mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.2336859886277!2d-62.271949884356275!3d-38.78127687958867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbd514b179da5%3A0x398d52fb76513951!2sV%C3%A9lez%20S%C3%A1rsfield%203822%2C%20B8103%20Ingeniero%20White%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1598584306689!5m2!1ses!2sar" width="100%" height="90%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div><a href="mailto:gallonestor@bvconline.com.ar"><i class="bi bi-envelope-at-fill"></i></a></div>
+            <div>gallonestor@bvconline.com.ar</div>
+            <div><i class="bi bi-telephone-forward-fill"></i></div>
+            <div><a class="contacto-p" href="https://api.whatsapp.com/send?phone=542915071220&text=&source=&data=&app_absent=">+54 291 5 071220</a></div>
+        </div>
+        <div class="container-fluid mt-3 mb-3 p-3">
+            <h1 class="text-center">CONTACTO</h1>
+            <p class="h1 text-center fw-bold text-dark"><i class="bi bi-person-circle" style="font-size: 4em;"></i></p>
+            <div class="container bg-light rounded-3 p-0">
+                <div class="bg-orange rounded-top mb-3">
+                    <h2 class="text-center text-dark fw-bold pt-3">Ponte en contacto con nosotros</h2>
+                    <h3 class="text-center text-dark fw-bold">¿Tienes alguna duda o suguerencia?</h3>
+                </div>
+
+                <div class="p-3">
+                    <form class="row g-3 needs-validation" novalidate method="post" action="">
+
+                        <input type="hidden" name="token" value="">
+
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text"><i class="bi bi-person-fill"></i></span>
+                            <input type="text" name="apellidoynombre" class="form-control" placeholder="Apellido y Nombre" aria-label="Apellido y nombre" required>
+                            <span class="input-group-text">Mail</span>
+                            <input type="text" name="email" class="form-control" placeholder="Correo electronico" aria-label="Correo electronico" required>
+                        </div>
+
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-text">Mensaje</span>
+                            <textarea class="form-control" name="mensaje" aria-label="With textarea" required></textarea>
+                        </div>
+
+                        <div class="input-group mb-3 d-flex justify-content-center">
+                            <input class="btn btn-primary btn-lg" type="submit" value="Enviar">
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <script src="~/js/validacion.js"></script>
+        <script src="~/js/form-control.js"></script>
+    </section>
+    <!-- FIN DE SECCION CONTACTO -->
+</main>

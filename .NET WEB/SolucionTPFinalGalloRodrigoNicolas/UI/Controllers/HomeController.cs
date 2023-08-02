@@ -13,14 +13,14 @@ namespace UI.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Servicios()
         {
             ViewBag.Message = "Your application description page.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Contacto()
         {
             ViewBag.Message = "Your contact page.";
 
@@ -28,6 +28,13 @@ namespace UI.Controllers
         }
 
         public ActionResult Portfolio()
+        {
+            ViewBag.Message = "Your porfolio page.";
+
+            return View();
+        }
+
+        public ActionResult Nosotros()
         {
             ViewBag.Message = "Your porfolio page.";
 

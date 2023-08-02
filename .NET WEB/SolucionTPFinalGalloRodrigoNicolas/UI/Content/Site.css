@@ -12,15 +12,6 @@
     white-space: normal;
 }
 
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
-}
-
-
-
 /*****************ESTILOS DE MI SITIO**************/
 body {
     font-family: 'Rubik', sans-serif;
@@ -171,74 +162,6 @@ h4 {
     margin: auto;
 }
 
-form {
-    width: 40%;
-    margin: auto;
-}
-
-    form ul li input {
-        width: 100%;
-        height: 40px;
-        border-radius: 10px;
-        border: 2px solid #007bff;
-    }
-
-#textarea {
-    width: 100%;
-    margin: auto;
-    display: block;
-    border-radius: 10px;
-    border: 2px solid #007bff;
-}
-
-#boton {
-    cursor: pointer;
-    background-color: #007bff;
-    color: white;
-    border-radius: 10px;
-    width: 165px;
-    height: 40px;
-    margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    font-size: 25px;
-    border: 2px solid #007bff;
-}
-
-    #boton:hover {
-        background-color: white;
-        color: #007bff;
-    }
-
-.icon {
-    width: 50px;
-    height: 50px;
-}
-
-.datos-contacto {
-    display: inline-block;
-}
-
-.contacto-p {
-    line-height: 50px;
-    height: 50px;
-    margin: 0px;
-    display: block;
-    margin-bottom: 0px;
-}
-
-.datos-contacto div {
-    height: 50px;
-}
-
-#container-datos-contacto {
-    margin: auto;
-    width: fit-content;
-    height: 50px;
-    margin-top: 25px;
-}
-/*fin de seccion contacto*/
 
 /*seccion servicios*/
 h2 {

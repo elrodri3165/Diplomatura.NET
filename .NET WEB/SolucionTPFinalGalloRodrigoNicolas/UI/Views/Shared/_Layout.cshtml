@@ -8,6 +8,8 @@
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
     <link rel="icon" href="img/favicon.jpg">
     <!-- Rubik font and roboto - google font-->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Rubik:wght@500&display=swap" rel="stylesheet">
@@ -18,7 +20,7 @@
         <div class="container-fluid d-flex justify-content-evenly p-3 mb-1 bg-light">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="~/"><img src="img/logo.jpg" alt="Logo" border="0" class="" /></a>
+                    <a class="navbar-brand" href="~/"><img src="~/img/logo.jpg" alt="Logo" border="0" class="" /></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -28,16 +30,16 @@
                                 <a href="~/" role="button" class="btn-lg nav-link m-3">INICIO</a>
                             </li>
                             <li class="nav-item">
+                                <a href="~/home/nosotros" role="button" class="btn-lg nav-link m-3">NOSOTROS</a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="~/home/servicios" role="button" class="btn-lg nav-link m-3">SERVICIOS</a>
                             </li>
                             <li class="nav-item">
                                 <a href="~/home/portfolio" role="button" class="btn-lg nav-link m-3">PORTFOLIO</a>
                             </li>
                             <li class="nav-item">
-                                <a href="~/home/about" role="button" class="btn-lg nav-link m-3">NOSOTROS</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="~/home/contact" role="button" class="btn-lg nav-link m-3">CONTACTO</a>
+                                <a href="~/home/contacto" role="button" class="btn-lg nav-link m-3">CONTACTO</a>
                             </li>
                         </ul>
                     </div>
@@ -45,7 +47,7 @@
             </nav>
         </div>
     </header>
-    <div class="container body-content">
+    <div class="container-fluid m-0 p-0 body-content">
         @RenderBody()
         <hr />
         <!--  SECCION FOOTER -->
@@ -54,16 +56,14 @@
                 <div id="logo">
                     <a href="index.html"><img src="img/logo.jpg" alt=""></a>
                 </div>
-                <div id="container-redes">
-                    <ul>
-                        <li class="icon-redes"><a href="https://www.facebook.com/"><img class="icon" src="img/icon/facebook.png" alt=""></a></li>
-                        <li class="icon-redes"><a href="https://www.instagram.com/"><img class="icon" src="img/icon/instagram.png" alt=""></a></li>
-                        <li class="icon-redes"><a href="https://www.linkedin.com/in/rodrigo-gallo-4b1b3285/?originalSubdomain=ar"><img id="likein" class="icon" src="img/icon/likein.png" alt=""></a></li>
-                    </ul>
+                <div class="d-flex flex-row justify-content-center">
+                    <a class="m-1 text-white" href="https://www.facebook.com/"><i style="font-size:3rem;" class="bi bi-facebook"></i></a>
+                    <a class="m-1 text-white" href="https://www.instagram.com/"><i style="font-size:3rem;" class="bi bi-instagram"></i></a>
+                    <a class="m-1 text-white" href="https://www.linkedin.com/in/rodrigo-gallo-4b1b3285/?originalSubdomain=ar"><i style="font-size:3rem;" class="bi bi-linkedin"></i></a>1
                 </div>
                 <div id="container-rgweb">
                     <h3><a href="mailto:hola@hola.com">hola@hola.com</a></h3>
-                    <h3>Diseño y ejecucion por <a href="index.html">RG.com.ar</a></h3>
+                    <h3>Diseño y ejecucion por <a href="~/home">RG.com.ar</a></h3>
                 </div>
             </div>
         </footer>
