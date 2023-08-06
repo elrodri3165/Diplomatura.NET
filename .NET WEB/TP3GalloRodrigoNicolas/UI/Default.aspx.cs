@@ -63,6 +63,19 @@ namespace UI
                         lblAlert.CssClass = "bg-danger text-white d-inline";
                         throw;
                     }
+                    try
+                    {
+                        DAL dal = new DAL();
+                        int compra = (int)Session["NumeroCompra"];
+                        string nombre = Session["Nombre"].ToString();
+                        string producto = item.ToString();
+                        dal.CrearCompra(compra,nombre,producto);
+                    }
+                    catch (Exception)
+                    {
+
+                        throw;
+                    }
                     
                 }
                 lstProductos.Items.Clear();
