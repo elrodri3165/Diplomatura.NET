@@ -1,0 +1,13 @@
+Modifique el TP numero 3, para que guarde en la base de datos "Compras", la compra con el numero de compra
+
+en este TP se puede ver las compras
+
+https://localhost:44397/Compra/1
+https://localhost:44397/Compra/2
+https://localhost:44397/Compra/3
+https://localhost:44397/Compra/4
+
+las 3 que estan guardadas actualmente.
+
+Todos los tp de mi diplo
+https://github.com/elrodri3165/Diplomatura.NET

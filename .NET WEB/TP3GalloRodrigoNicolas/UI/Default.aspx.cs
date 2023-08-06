@@ -73,7 +73,9 @@ namespace UI
                     }
                     catch (Exception)
                     {
-
+                        lblAlert.Text = "Ocurrio un error al guardar en la base de datos!";
+                        lblAlert.CssClass = "bg-danger text-white d-inline";
+                        throw;
                         throw;
                     }
                     
